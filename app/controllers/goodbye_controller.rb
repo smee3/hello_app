@@ -1,3 +1,3 @@
-class GooodbyeController < ApplicationController
+class GoodbyeController < ApplicationController
   def index; end
 end
